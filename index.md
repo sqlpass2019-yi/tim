@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://www.google.com.tw/) to maintain and p
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![image](https://github.com/sqlpass2019-yi/tim/blob/master/happy_new_year.jpg)
+![image](/happy_new_year.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
